@@ -1,0 +1,21 @@
+.circle {
+    border-radius: 50%;
+    height: 5vh;
+    width: 5vw;
+    color: yellow;
+}
+@mixin button {
+    display: flex;
+    height: 2vw;
+    width: 3vw;
+    background-color: grey;
+    border-radius: 40%;
+}
+.off-button {
+    @include button;
+    justify-content: flex-start;
+}
+.on-button {
+    @include button;
+    justify-content: flex-end;
+}

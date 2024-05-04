@@ -1,0 +1,1 @@
+export const AboutEnglishVersion="To keep up with the international commnunity, this is the English Version of the school. As it's name suggests, every subject is taught in English here. 969 students study here."

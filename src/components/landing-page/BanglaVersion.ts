@@ -1,0 +1,1 @@
+export const bangla_version="Our school has a Bangla Version in which all subjects are taught in our mother tongue Bangla. It has a total of 6286 students.";

@@ -1,0 +1,1 @@
+export const CollegeCampus="BAFSK offers quality education upto college level. Here, budding young minds are taught higher education and set up for their lives."
